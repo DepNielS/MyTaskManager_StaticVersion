@@ -31,19 +31,19 @@ function TaskList() {
             <ul>
                 <li className="task-item">
                     <span>Belajar React</span>
-                    <button onClick={() => alert('Tugas "Belajar React" telah dihapus!')}>
+                    <button onClick={() => alert(' Tombol "Belajar React" telah dihapus!')}>
                         Hapus
                     </button>
                 </li>
                 <li className="task-item">
                     <span>Belajar JavaScript</span>
-                    <button onClick={() => alert('Tugas "Belajar JavaScript" telah dihapus!')}>
+                    <button onClick={() => alert(' Tombol "Belajar JavaScript" telah dihapus!')}>
                         Hapus
                     </button>
                 </li>
                 <li className="task-item">
                     <span>Membuat Portfolio</span>
-                    <button onClick={() => alert('Tugas "Membuat Portfolio" telah dihapus!')}>
+                    <button onClick={() => alert(' Tombol "Membuat Portfolio" telah dihapus!')}>
                         Hapus
                     </button>
                 </li>
